@@ -1,0 +1,14 @@
+{
+    "indoor": [
+        "Basketball",
+        "Table Tennis",
+        "Volleyball",
+        "Bowling"
+    ],
+    "outdoor": [
+        "Football",
+        "Baseball",
+        "Athletics",
+        "Tennis"
+    ]
+}
