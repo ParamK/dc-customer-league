@@ -1,0 +1,14 @@
+[
+    {
+        "sport": "Basketball",
+        "teams": "Dragons",
+        "score": "86 - 82",
+        "date": "Mar 10, 2025"
+    },
+    {
+        "sport": "Football",
+        "teams": "Eagles",
+        "score": "2 - 1",
+        "date": "Mar 8, 2025"
+    }
+]
