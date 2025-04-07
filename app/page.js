@@ -1,4 +1,4 @@
-import './globals.css'
+import '../app/globals.css'
 import sportsData from '../data/sports.json'
 import ShowcaseSwiper from './components/ShowcaseSwiper'
 import LeaderboardTable from './components/LeaderboardTable'
